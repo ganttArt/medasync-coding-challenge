@@ -1,0 +1,14 @@
+{
+  "name": "medasync-coding-challenge",
+  "version": "1.0.0",
+  "description": "Take home coding challenge for Medasync",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js poc.txt"
+  },
+  "author": "Chris Gantt",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
