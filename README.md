@@ -1,5 +1,7 @@
 # Medasync Coding Challenge
 
+Challenge description here: [https://github.com/joshuag/medasync/blob/main/engineering-challenge.md](https://github.com/joshuag/medasync/blob/main/engineering-challenge.md)
+
 ## Design Explanation
 
 - I used a stream and a readline interface to process the input text line by line.  
